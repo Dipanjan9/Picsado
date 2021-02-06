@@ -6,5 +6,5 @@
 ### 3. Built JWT Authentication using middleware for protecting the routes.
 
 ### Screenshots of Picsado :
-<img src "https://drive.google.com/file/d/1_oLQjl_Trwub-bIJD70qnUY8iebgMI8v/view?usp=sharing">
+![Picsado1](https://user-images.githubusercontent.com/38534773/107124475-2518d900-68ca-11eb-9491-72255ae3e893.JPG)
 
